@@ -1,0 +1,94 @@
+Award,Year,Movie Title,Movie Genre,Runtime,Actors,IMDB Rating,Rotten Tomatoes Rating
+OUTSTANDING PICTURE,1927,Wings,"Drama, Romance, War, Action",144 min,"Clara Bow, Charles 'Buddy' Rogers, Richard Arlen, Jobyna Ralston",7.5/10,93%
+OUTSTANDING PICTURE,1928,The Broadway Melody,"Drama, Musical, Romance",100 min,"Charles King, Anita Page, Bessie Love",5.7/10,36%
+OUTSTANDING PRODUCTION,1929,All Quiet on the Western Front,"Drama, War",152 min,"Louis Wolheim, Lew Ayres, John Wray, Arnold Lucy",8.0/10,98%
+OUTSTANDING PRODUCTION,1930,Cimarron,"Drama, Western",123 min,"Richard Dix, Irene Dunne, Estelle Taylor, Nance O'Neil",5.9/10,52%
+OUTSTANDING PRODUCTION,1931,Grand Hotel,"Drama, Romance",112 min,"Greta Garbo, John Barrymore, Joan Crawford, Wallace Beery",7.4/10,88%
+OUTSTANDING PRODUCTION,1932,Cavalcade,"Drama, Romance, War",112 min,"Diana Wynyard, Clive Brook, Una O'Connor, Herbert Mundin",5.8/10,61%
+OUTSTANDING PRODUCTION,1933,Cavalcade,"Drama, Romance, War",112 min,"Diana Wynyard, Clive Brook, Una O'Connor, Herbert Mundin",5.8/10,61%
+OUTSTANDING PRODUCTION,1934,It Happened One Night,"Comedy, Romance",105 min,"Clark Gable, Claudette Colbert, Walter Connolly, Roscoe Karns",8.1/10,98%
+OUTSTANDING PRODUCTION,1935,Mutiny on the Bounty,"Adventure, Biography, Drama, History, Romance",132 min,"Charles Laughton, Clark Gable, Franchot Tone, Herbert Mundin",7.7/10,93%
+OUTSTANDING PRODUCTION,1936,The Great Ziegfeld,"Biography, Drama, Musical, Romance",176 min,"William Powell, Myrna Loy, Luise Rainer, Frank Morgan",6.7/10,66%
+OUTSTANDING PRODUCTION,1937,The Life of Emile Zola,"Biography, Drama",116 min,"Paul Muni, Gale Sondergaard, Joseph Schildkraut, Gloria Holden",7.2/10,81%
+OUTSTANDING PRODUCTION,1938,You Can't Take It with You,"Comedy, Drama, Romance",126 min,"Jean Arthur, Lionel Barrymore, James Stewart, Edward Arnold",7.9/10,93%
+OUTSTANDING PRODUCTION,1939,Gone with the Wind,"Drama, History, Romance, War",238 min,"Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes",8.1/10,91%
+OUTSTANDING PRODUCTION,1940,Rebecca,"Drama, Mystery, Romance, Thriller",130 min,"Laurence Olivier, Joan Fontaine, George Sanders, Judith Anderson",8.1/10,100%
+OUTSTANDING MOTION PICTURE,1941,How Green Was My Valley,"Drama, Family",118 min,"Walter Pidgeon, Maureen O'Hara, Anna Lee, Donald Crisp",7.7/10,91%
+OUTSTANDING MOTION PICTURE,1942,Mrs. Miniver,"Drama, Romance, War",134 min,"Greer Garson, Walter Pidgeon, Teresa Wright, May Whitty",7.6/10,93%
+OUTSTANDING MOTION PICTURE,1943,Casablanca,"Drama, Romance, War",102 min,"Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",8.5/10,99%
+BEST MOTION PICTURE,1944,Going My Way,"Comedy, Drama, Music",126 min,"Bing Crosby, Barry Fitzgerald, Frank McHugh, James Brown",7.0/10,83%
+BEST MOTION PICTURE,1945,The Lost Weekend,"Drama, Film-Noir",101 min,"Ray Milland, Jane Wyman, Phillip Terry, Howard Da Silva",7.9/10,100%
+BEST MOTION PICTURE,1946,The Best Years of Our Lives,"Drama, Romance, War",170 min,"Myrna Loy, Fredric March, Dana Andrews, Teresa Wright",8.0/10,96%
+BEST MOTION PICTURE,1947,Gentleman's Agreement,"Drama, Romance",118 min,"Gregory Peck, Dorothy McGuire, John Garfield, Celeste Holm",7.2/10,74%
+BEST MOTION PICTURE,1948,Hamlet,Drama,242 min,"Riz Abbasi, Richard Attenborough, David Blair, Brian Blessed",7.7/10,95%
+BEST MOTION PICTURE,1949,All the King's Men,"Drama, Thriller",128 min,"Sean Penn, Jude Law, Anthony Hopkins, Kate Winslet",6.2/10,37/100
+BEST MOTION PICTURE,1950,All about Eve,Drama,138 min,"Bette Davis, Anne Baxter, George Sanders, Celeste Holm",8.2/10,99%
+BEST MOTION PICTURE,1951,An American in Paris,"Drama, Musical, Romance",114 min,"Gene Kelly, Leslie Caron, Oscar Levant, Georges Guétary",7.2/10,96%
+BEST MOTION PICTURE,1952,The Greatest Show on Earth,"Drama, Family, Romance",152 min,"Betty Hutton, Cornel Wilde, Charlton Heston, Dorothy Lamour",6.6/10,43%
+BEST MOTION PICTURE,1953,From Here to Eternity,"Drama, Romance, War",118 min,"Burt Lancaster, Montgomery Clift, Deborah Kerr, Donna Reed",7.6/10,92%
+BEST MOTION PICTURE,1954,On the Waterfront,"Crime, Drama, Thriller",108 min,"Marlon Brando, Karl Malden, Lee J. Cobb, Rod Steiger",8.1/10,99%
+BEST MOTION PICTURE,1955,Marty,"Drama, Romance",90 min,"Ernest Borgnine, Betsy Blair, Esther Minciotti, Augusta Ciolli",7.7/10,100%
+BEST MOTION PICTURE,1956,Around the World in 80 Days,"Action, Adventure, Comedy, Family, Western",120 min,"Jackie Chan, Steve Coogan, Cécile de France, Robert Fyfe",5.9/10,32%
+BEST MOTION PICTURE,1957,The Bridge on the River Kwai,"Adventure, Drama, War",161 min,"William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa",8.1/10,95%
+BEST MOTION PICTURE,1958,Gigi,"Comedy, Musical, Romance",115 min,"Leslie Caron, Maurice Chevalier, Louis Jourdan, Hermione Gingold",6.7/10,80%
+BEST MOTION PICTURE,1959,Ben-Hur,"Adventure, Drama, History",212 min,"Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd",8.1/10,86%
+BEST MOTION PICTURE,1960,The Apartment,"Comedy, Drama, Romance",125 min,"Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston",8.3/10,93%
+BEST MOTION PICTURE,1961,West Side Story,"Crime, Drama, Musical, Romance",153 min,"Natalie Wood, Richard Beymer, Russ Tamblyn, Rita Moreno",7.5/10,92%
+BEST PICTURE,1962,Lawrence of Arabia,"Adventure, Biography, Drama, History, War",228 min,"Peter O'Toole, Alec Guinness, Anthony Quinn, Jack Hawkins",8.3/10,98%
+BEST PICTURE,1963,Tom Jones,"Adventure, Comedy, History",129 min,"George Devine, Rachel Kempson, Angela Baddeley, Joyce Redman",6.5/10,86%
+BEST PICTURE,1964,My Fair Lady,"Drama, Family, Musical, Romance",170 min,"Audrey Hepburn, Rex Harrison, Stanley Holloway, Wilfrid Hyde-White",7.8/10,95%
+BEST PICTURE,1965,The Sound of Music,"Biography, Drama, Family, Musical, Romance",172 min,"Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn",8.0/10,83%
+BEST PICTURE,1966,A Man for All Seasons,"Biography, Drama, History",120 min,"Paul Scofield, Wendy Hiller, Leo McKern, Robert Shaw",7.7/10,83%
+BEST PICTURE,1967,In the Heat of the Night,"Crime, Drama, Mystery, Thriller",110 min,"Sidney Poitier, Rod Steiger, Warren Oates, Lee Grant",7.9/10,94%
+BEST PICTURE,1968,Oliver!,"Drama, Family, Musical",153 min,"Ron Moody, Shani Wallis, Oliver Reed, Harry Secombe",7.4/10,82%
+BEST PICTURE,1969,Midnight Cowboy,Drama,113 min,"Dustin Hoffman, Jon Voight, Sylvia Miles, John McGiver",7.8/10,89%
+BEST PICTURE,1970,Patton,"Biography, Drama, War",172 min,"George C. Scott, Karl Malden, Stephen Young, Michael Strong",7.9/10,94%
+BEST PICTURE,1971,The French Connection,"Action, Crime, Drama, Thriller",104 min,"Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco",7.7/10,98%
+BEST PICTURE,1972,The Godfather,"Crime, Drama",175 min,"Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",9.2/10,98%
+BEST PICTURE,1973,The Sting,"Comedy, Crime, Drama",129 min,"Paul Newman, Robert Redford, Robert Shaw, Charles Durning",8.3/10,94%
+BEST PICTURE,1974,The Godfather Part II,"Crime, Drama",202 min,"Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro",9.0/10,98%
+BEST PICTURE,1975,One Flew over the Cuckoo's Nest,Drama,133 min,"Jack Nicholson, Louise Fletcher, Will Sampson, Michael Berryman",8.7/10,94%
+BEST PICTURE,1976,Rocky,"Drama, Sport",120 min,"Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers",8.1/10,94%
+BEST PICTURE,1977,Annie Hall,"Comedy, Romance",93 min,"Woody Allen, Diane Keaton, Tony Roberts, Carol Kane",8.0/10,98%
+BEST PICTURE,1978,The Deer Hunter,"Drama, War",183 min,"Robert De Niro, John Cazale, John Savage, Christopher Walken",8.1/10,93%
+BEST PICTURE,1979,Kramer vs. Kramer,Drama,105 min,"Dustin Hoffman, Meryl Streep, Jane Alexander, Justin Henry",7.8/10,88%
+BEST PICTURE,1980,Ordinary People,Drama,124 min,"Donald Sutherland, Mary Tyler Moore, Judd Hirsch, Timothy Hutton",7.7/10,89%
+BEST PICTURE,1981,Chariots of Fire,"Biography, Drama, Sport",125 min,"Nicholas Farrell, Nigel Havers, Ian Charleson, Ben Cross",7.2/10,85%
+BEST PICTURE,1982,Gandhi,"Biography, Drama, History",191 min,"Ben Kingsley, Rohini Hattangadi, Roshan Seth, Candice Bergen",8.0/10,85%
+BEST PICTURE,1983,Terms of Endearment,"Comedy, Drama",132 min,"Shirley MacLaine, Debra Winger, Jack Nicholson, Danny DeVito",7.4/10,77%
+BEST PICTURE,1984,Amadeus,"Biography, Drama, History, Music",160 min,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Roy Dotrice",8.3/10,93%
+BEST PICTURE,1985,Out of Africa,"Biography, Drama, Romance",161 min,"Meryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen",7.2/10,58%
+BEST PICTURE,1986,Platoon,"Drama, War",120 min,"Keith David, Forest Whitaker, Francesco Quinn, Kevin Dillon",8.1/10,88%
+BEST PICTURE,1987,The Last Emperor,"Biography, Drama, History",163 min,"John Lone, Joan Chen, Peter O'Toole, Ruocheng Ying",7.7/10,90%
+BEST PICTURE,1988,Rain Man,Drama,133 min,"Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen",8.0/10,89%
+BEST PICTURE,1989,Driving Miss Daisy,Drama,99 min,"Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone",7.4/10,81%
+BEST PICTURE,1990,Dances With Wolves,"Adventure, Drama, Western",181 min,"Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant",8.0/10,83%
+BEST PICTURE,1991,The Silence of the Lambs,"Crime, Drama, Thriller",118 min,"Jodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz",8.6/10,96%
+BEST PICTURE,1992,Unforgiven,"Drama, Western",130 min,"Clint Eastwood, Gene Hackman, Morgan Freeman, Richard Harris",8.2/10,96%
+BEST PICTURE,1993,Schindler's List,"Biography, Drama, History",195 min,"Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall",8.9/10,97%
+BEST PICTURE,1994,Forrest Gump,"Drama, Romance",142 min,"Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",8.8/10,71%
+BEST PICTURE,1995,Braveheart,"Biography, Drama, History, War",178 min,"James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo",8.3/10,78%
+BEST PICTURE,1996,The English Patient,"Drama, Romance, War",162 min,"Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas",7.4/10,85%
+BEST PICTURE,1997,Titanic,"Drama, Romance",194 min,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",7.8/10,89%
+BEST PICTURE,1998,Shakespeare in Love,"Comedy, Drama, History, Romance",123 min,"Geoffrey Rush, Tom Wilkinson, Steven O'Donnell, Tim McMullan",7.1/10,92%
+BEST PICTURE,1999,American Beauty,Drama,122 min,"Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",8.3/10,87%
+BEST PICTURE,2000,Gladiator,"Action, Adventure, Drama",155 min,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",8.5/10,77%
+BEST PICTURE,2001,A Beautiful Mind,"Biography, Drama",135 min,"Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",8.2/10,74%
+BEST PICTURE,2002,Chicago,"Comedy, Crime, Musical",113 min,"Taye Diggs, Cliff Saunders, Catherine Zeta-Jones, Renée Zellweger",7.1/10,86%
+BEST PICTURE,2003,The Lord of the Rings: The Return of the King,"Adventure, Drama, Fantasy",201 min,"Noel Appleby, Ali Astin, Sean Astin, David Aston",8.9/10,93%
+BEST PICTURE,2004,Million Dollar Baby,"Drama, Sport",132 min,"Clint Eastwood, Hilary Swank, Morgan Freeman, Jay Baruchel",8.1/10,91%
+BEST PICTURE,2005,Crash,"Crime, Drama, Thriller",112 min,"Karina Arroyave, Dato Bakhtadze, Sandra Bullock, Don Cheadle",7.8/10,74%
+BEST PICTURE,2006,The Departed,"Crime, Drama, Thriller",151 min,"Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Wahlberg",8.5/10,91%
+BEST PICTURE,2007,No Country for Old Men,"Crime, Drama, Thriller",122 min,"Tommy Lee Jones, Javier Bardem, Josh Brolin, Woody Harrelson",8.1/10,93%
+BEST PICTURE,2008,Slumdog Millionaire,"Drama, Romance",120 min,"Dev Patel, Saurabh Shukla, Anil Kapoor, Raj Zutshi",8.0/10,91%
+BEST PICTURE,2009,The Hurt Locker,"Drama, Thriller, War",131 min,"Jeremy Renner, Anthony Mackie, Brian Geraghty, Guy Pearce",7.6/10,97%
+BEST PICTURE,2010,The King's Speech,"Biography, Drama, History",118 min,"Colin Firth, Helena Bonham Carter, Derek Jacobi, Robert Portal",8.0/10,94%
+BEST PICTURE,2011,The Artist,"Comedy, Drama, Romance",100 min,"Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",7.9/10,95%
+BEST PICTURE,2012,Argo,"Biography, Drama, Thriller",120 min,"Ben Affleck, Bryan Cranston, Alan Arkin, John Goodman",7.7/10,96%
+BEST PICTURE,2013,12 Years a Slave,"Biography, Drama, History",134 min,"Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt",8.1/10,95%
+BEST PICTURE,2014,Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama",119 min,"Michael Keaton, Emma Stone, Kenny Chin, Jamahl Garrison-Lowe",7.7/10,91%
+BEST PICTURE,2015,Spotlight,"Biography, Crime, Drama",129 min,"Mark Ruffalo, Michael Keaton, Rachel McAdams, Liev Schreiber",8.1/10,97%
+BEST PICTURE,2016,Moonlight,Drama,111 min,"Mahershala Ali, Shariff Earp, Duan Sanderson, Alex R. Hibbert",7.4/10,98%
+BEST PICTURE,2017,The Shape of Water,"Adventure, Drama, Fantasy, Romance, Thriller",123 min,"Sally Hawkins, Michael Shannon, Richard Jenkins, Octavia Spencer",7.3/10,92%
+BEST PICTURE,2018,Green Book,"Biography, Comedy, Drama, Music",130 min,"Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco",8.2/10,78%
+BEST PICTURE,2019,Parasite,"Comedy, Drama, Thriller",132 min,"Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi",8.6/10,99%
