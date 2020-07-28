@@ -1,0 +1,368 @@
+Year,Movie Title,Actor
+1927,Wings,Clara Bow
+1927,Wings, Charles 'Buddy' Rogers
+1927,Wings, Richard Arlen
+1927,Wings, Jobyna Ralston
+1928,The Broadway Melody,Charles King
+1928,The Broadway Melody, Anita Page
+1928,The Broadway Melody, Bessie Love
+1929,All Quiet on the Western Front,Louis Wolheim
+1929,All Quiet on the Western Front, Lew Ayres
+1929,All Quiet on the Western Front, John Wray
+1929,All Quiet on the Western Front, Arnold Lucy
+1930,Cimarron,Richard Dix
+1930,Cimarron, Irene Dunne
+1930,Cimarron, Estelle Taylor
+1930,Cimarron, Nance O'Neil
+1931,Grand Hotel,Greta Garbo
+1931,Grand Hotel, John Barrymore
+1931,Grand Hotel, Joan Crawford
+1931,Grand Hotel, Wallace Beery
+1932,Cavalcade,Diana Wynyard
+1932,Cavalcade, Clive Brook
+1932,Cavalcade, Una O'Connor
+1932,Cavalcade, Herbert Mundin
+1934,It Happened One Night,Clark Gable
+1934,It Happened One Night, Claudette Colbert
+1934,It Happened One Night, Walter Connolly
+1934,It Happened One Night, Roscoe Karns
+1935,Mutiny on the Bounty,Charles Laughton
+1935,Mutiny on the Bounty, Clark Gable
+1935,Mutiny on the Bounty, Franchot Tone
+1935,Mutiny on the Bounty, Herbert Mundin
+1936,The Great Ziegfeld,William Powell
+1936,The Great Ziegfeld, Myrna Loy
+1936,The Great Ziegfeld, Luise Rainer
+1936,The Great Ziegfeld, Frank Morgan
+1937,The Life of Emile Zola,Paul Muni
+1937,The Life of Emile Zola, Gale Sondergaard
+1937,The Life of Emile Zola, Joseph Schildkraut
+1937,The Life of Emile Zola, Gloria Holden
+1938,You Can't Take It with You,Jean Arthur
+1938,You Can't Take It with You, Lionel Barrymore
+1938,You Can't Take It with You, James Stewart
+1938,You Can't Take It with You, Edward Arnold
+1939,Gone with the Wind,Thomas Mitchell
+1939,Gone with the Wind, Barbara O'Neil
+1939,Gone with the Wind, Vivien Leigh
+1939,Gone with the Wind, Evelyn Keyes
+1940,Rebecca,Laurence Olivier
+1940,Rebecca, Joan Fontaine
+1940,Rebecca, George Sanders
+1940,Rebecca, Judith Anderson
+1941,How Green Was My Valley,Walter Pidgeon
+1941,How Green Was My Valley, Maureen O'Hara
+1941,How Green Was My Valley, Anna Lee
+1941,How Green Was My Valley, Donald Crisp
+1942,Mrs. Miniver,Greer Garson
+1942,Mrs. Miniver, Walter Pidgeon
+1942,Mrs. Miniver, Teresa Wright
+1942,Mrs. Miniver, May Whitty
+1943,Casablanca,Humphrey Bogart
+1943,Casablanca, Ingrid Bergman
+1943,Casablanca, Paul Henreid
+1943,Casablanca, Claude Rains
+1944,Going My Way,Bing Crosby
+1944,Going My Way, Barry Fitzgerald
+1944,Going My Way, Frank McHugh
+1944,Going My Way, James Brown
+1945,The Lost Weekend,Ray Milland
+1945,The Lost Weekend, Jane Wyman
+1945,The Lost Weekend, Phillip Terry
+1945,The Lost Weekend, Howard Da Silva
+1946,The Best Years of Our Lives,Myrna Loy
+1946,The Best Years of Our Lives, Fredric March
+1946,The Best Years of Our Lives, Dana Andrews
+1946,The Best Years of Our Lives, Teresa Wright
+1947,Gentleman's Agreement,Gregory Peck
+1947,Gentleman's Agreement, Dorothy McGuire
+1947,Gentleman's Agreement, John Garfield
+1947,Gentleman's Agreement, Celeste Holm
+1948,Hamlet,Riz Abbasi
+1948,Hamlet, Richard Attenborough
+1948,Hamlet, David Blair
+1948,Hamlet, Brian Blessed
+1949,All the King's Men,Sean Penn
+1949,All the King's Men, Jude Law
+1949,All the King's Men, Anthony Hopkins
+1949,All the King's Men, Kate Winslet
+1950,All about Eve,Bette Davis
+1950,All about Eve, Anne Baxter
+1950,All about Eve, George Sanders
+1950,All about Eve, Celeste Holm
+1951,An American in Paris,Gene Kelly
+1951,An American in Paris, Leslie Caron
+1951,An American in Paris, Oscar Levant
+1951,An American in Paris, Georges Guétary
+1952,The Greatest Show on Earth,Betty Hutton
+1952,The Greatest Show on Earth, Cornel Wilde
+1952,The Greatest Show on Earth, Charlton Heston
+1952,The Greatest Show on Earth, Dorothy Lamour
+1953,From Here to Eternity,Burt Lancaster
+1953,From Here to Eternity, Montgomery Clift
+1953,From Here to Eternity, Deborah Kerr
+1953,From Here to Eternity, Donna Reed
+1954,On the Waterfront,Marlon Brando
+1954,On the Waterfront, Karl Malden
+1954,On the Waterfront, Lee J. Cobb
+1954,On the Waterfront, Rod Steiger
+1955,Marty,Ernest Borgnine
+1955,Marty, Betsy Blair
+1955,Marty, Esther Minciotti
+1955,Marty, Augusta Ciolli
+1956,Around the World in 80 Days,Jackie Chan
+1956,Around the World in 80 Days, Steve Coogan
+1956,Around the World in 80 Days, Cécile de France
+1956,Around the World in 80 Days, Robert Fyfe
+1957,The Bridge on the River Kwai,William Holden
+1957,The Bridge on the River Kwai, Alec Guinness
+1957,The Bridge on the River Kwai, Jack Hawkins
+1957,The Bridge on the River Kwai, Sessue Hayakawa
+1958,Gigi,Leslie Caron
+1958,Gigi, Maurice Chevalier
+1958,Gigi, Louis Jourdan
+1958,Gigi, Hermione Gingold
+1959,Ben-Hur,Charlton Heston
+1959,Ben-Hur, Jack Hawkins
+1959,Ben-Hur, Haya Harareet
+1959,Ben-Hur, Stephen Boyd
+1960,The Apartment,Jack Lemmon
+1960,The Apartment, Shirley MacLaine
+1960,The Apartment, Fred MacMurray
+1960,The Apartment, Ray Walston
+1961,West Side Story,Natalie Wood
+1961,West Side Story, Richard Beymer
+1961,West Side Story, Russ Tamblyn
+1961,West Side Story, Rita Moreno
+1962,Lawrence of Arabia,Peter O'Toole
+1962,Lawrence of Arabia, Alec Guinness
+1962,Lawrence of Arabia, Anthony Quinn
+1962,Lawrence of Arabia, Jack Hawkins
+1963,Tom Jones,George Devine
+1963,Tom Jones, Rachel Kempson
+1963,Tom Jones, Angela Baddeley
+1963,Tom Jones, Joyce Redman
+1964,My Fair Lady,Audrey Hepburn
+1964,My Fair Lady, Rex Harrison
+1964,My Fair Lady, Stanley Holloway
+1964,My Fair Lady, Wilfrid Hyde-White
+1965,The Sound of Music,Julie Andrews
+1965,The Sound of Music, Christopher Plummer
+1965,The Sound of Music, Eleanor Parker
+1965,The Sound of Music, Richard Haydn
+1966,A Man for All Seasons,Paul Scofield
+1966,A Man for All Seasons, Wendy Hiller
+1966,A Man for All Seasons, Leo McKern
+1966,A Man for All Seasons, Robert Shaw
+1967,In the Heat of the Night,Sidney Poitier
+1967,In the Heat of the Night, Rod Steiger
+1967,In the Heat of the Night, Warren Oates
+1967,In the Heat of the Night, Lee Grant
+1968,Oliver!,Ron Moody
+1968,Oliver!, Shani Wallis
+1968,Oliver!, Oliver Reed
+1968,Oliver!, Harry Secombe
+1969,Midnight Cowboy,Dustin Hoffman
+1969,Midnight Cowboy, Jon Voight
+1969,Midnight Cowboy, Sylvia Miles
+1969,Midnight Cowboy, John McGiver
+1970,Patton,George C. Scott
+1970,Patton, Karl Malden
+1970,Patton, Stephen Young
+1970,Patton, Michael Strong
+1971,The French Connection,Gene Hackman
+1971,The French Connection, Fernando Rey
+1971,The French Connection, Roy Scheider
+1971,The French Connection, Tony Lo Bianco
+1972,The Godfather,Marlon Brando
+1972,The Godfather, Al Pacino
+1972,The Godfather, James Caan
+1972,The Godfather, Richard S. Castellano
+1973,The Sting,Paul Newman
+1973,The Sting, Robert Redford
+1973,The Sting, Robert Shaw
+1973,The Sting, Charles Durning
+1974,The Godfather Part II,Al Pacino
+1974,The Godfather Part II, Robert Duvall
+1974,The Godfather Part II, Diane Keaton
+1974,The Godfather Part II, Robert De Niro
+1975,One Flew over the Cuckoo's Nest,Jack Nicholson
+1975,One Flew over the Cuckoo's Nest, Louise Fletcher
+1975,One Flew over the Cuckoo's Nest, Will Sampson
+1975,One Flew over the Cuckoo's Nest, Michael Berryman
+1976,Rocky,Sylvester Stallone
+1976,Rocky, Talia Shire
+1976,Rocky, Burt Young
+1976,Rocky, Carl Weathers
+1977,Annie Hall,Woody Allen
+1977,Annie Hall, Diane Keaton
+1977,Annie Hall, Tony Roberts
+1977,Annie Hall, Carol Kane
+1978,The Deer Hunter,Robert De Niro
+1978,The Deer Hunter, John Cazale
+1978,The Deer Hunter, John Savage
+1978,The Deer Hunter, Christopher Walken
+1979,Kramer vs. Kramer,Dustin Hoffman
+1979,Kramer vs. Kramer, Meryl Streep
+1979,Kramer vs. Kramer, Jane Alexander
+1979,Kramer vs. Kramer, Justin Henry
+1980,Ordinary People,Donald Sutherland
+1980,Ordinary People, Mary Tyler Moore
+1980,Ordinary People, Judd Hirsch
+1980,Ordinary People, Timothy Hutton
+1981,Chariots of Fire,Nicholas Farrell
+1981,Chariots of Fire, Nigel Havers
+1981,Chariots of Fire, Ian Charleson
+1981,Chariots of Fire, Ben Cross
+1982,Gandhi,Ben Kingsley
+1982,Gandhi, Rohini Hattangadi
+1982,Gandhi, Roshan Seth
+1982,Gandhi, Candice Bergen
+1983,Terms of Endearment,Shirley MacLaine
+1983,Terms of Endearment, Debra Winger
+1983,Terms of Endearment, Jack Nicholson
+1983,Terms of Endearment, Danny DeVito
+1984,Amadeus,F. Murray Abraham
+1984,Amadeus, Tom Hulce
+1984,Amadeus, Elizabeth Berridge
+1984,Amadeus, Roy Dotrice
+1985,Out of Africa,Meryl Streep
+1985,Out of Africa, Robert Redford
+1985,Out of Africa, Klaus Maria Brandauer
+1985,Out of Africa, Michael Kitchen
+1986,Platoon,Keith David
+1986,Platoon, Forest Whitaker
+1986,Platoon, Francesco Quinn
+1986,Platoon, Kevin Dillon
+1987,The Last Emperor,John Lone
+1987,The Last Emperor, Joan Chen
+1987,The Last Emperor, Peter O'Toole
+1987,The Last Emperor, Ruocheng Ying
+1988,Rain Man,Dustin Hoffman
+1988,Rain Man, Tom Cruise
+1988,Rain Man, Valeria Golino
+1988,Rain Man, Gerald R. Molen
+1989,Driving Miss Daisy,Morgan Freeman
+1989,Driving Miss Daisy, Jessica Tandy
+1989,Driving Miss Daisy, Dan Aykroyd
+1989,Driving Miss Daisy, Patti LuPone
+1990,Dances With Wolves,Kevin Costner
+1990,Dances With Wolves, Mary McDonnell
+1990,Dances With Wolves, Graham Greene
+1990,Dances With Wolves, Rodney A. Grant
+1991,The Silence of the Lambs,Jodie Foster
+1991,The Silence of the Lambs, Lawrence A. Bonney
+1991,The Silence of the Lambs, Kasi Lemmons
+1991,The Silence of the Lambs, Lawrence T. Wrentz
+1992,Unforgiven,Clint Eastwood
+1992,Unforgiven, Gene Hackman
+1992,Unforgiven, Morgan Freeman
+1992,Unforgiven, Richard Harris
+1993,Schindler's List,Liam Neeson
+1993,Schindler's List, Ben Kingsley
+1993,Schindler's List, Ralph Fiennes
+1993,Schindler's List, Caroline Goodall
+1994,Forrest Gump,Tom Hanks
+1994,Forrest Gump, Rebecca Williams
+1994,Forrest Gump, Sally Field
+1994,Forrest Gump, Michael Conner Humphreys
+1995,Braveheart,James Robinson
+1995,Braveheart, Sean Lawlor
+1995,Braveheart, Sandy Nelson
+1995,Braveheart, James Cosmo
+1996,The English Patient,Ralph Fiennes
+1996,The English Patient, Juliette Binoche
+1996,The English Patient, Willem Dafoe
+1996,The English Patient, Kristin Scott Thomas
+1997,Titanic,Leonardo DiCaprio
+1997,Titanic, Kate Winslet
+1997,Titanic, Billy Zane
+1997,Titanic, Kathy Bates
+1998,Shakespeare in Love,Geoffrey Rush
+1998,Shakespeare in Love, Tom Wilkinson
+1998,Shakespeare in Love, Steven O'Donnell
+1998,Shakespeare in Love, Tim McMullan
+1999,American Beauty,Kevin Spacey
+1999,American Beauty, Annette Bening
+1999,American Beauty, Thora Birch
+1999,American Beauty, Wes Bentley
+2000,Gladiator,Russell Crowe
+2000,Gladiator, Joaquin Phoenix
+2000,Gladiator, Connie Nielsen
+2000,Gladiator, Oliver Reed
+2001,A Beautiful Mind,Russell Crowe
+2001,A Beautiful Mind, Ed Harris
+2001,A Beautiful Mind, Jennifer Connelly
+2001,A Beautiful Mind, Christopher Plummer
+2002,Chicago,Taye Diggs
+2002,Chicago, Cliff Saunders
+2002,Chicago, Catherine Zeta-Jones
+2002,Chicago, Renée Zellweger
+2003,The Lord of the Rings: The Return of the King,Noel Appleby
+2003,The Lord of the Rings: The Return of the King, Ali Astin
+2003,The Lord of the Rings: The Return of the King, Sean Astin
+2003,The Lord of the Rings: The Return of the King, David Aston
+2004,Million Dollar Baby,Clint Eastwood
+2004,Million Dollar Baby, Hilary Swank
+2004,Million Dollar Baby, Morgan Freeman
+2004,Million Dollar Baby, Jay Baruchel
+2005,Crash,Karina Arroyave
+2005,Crash, Dato Bakhtadze
+2005,Crash, Sandra Bullock
+2005,Crash, Don Cheadle
+2006,The Departed,Leonardo DiCaprio
+2006,The Departed, Matt Damon
+2006,The Departed, Jack Nicholson
+2006,The Departed, Mark Wahlberg
+2007,No Country for Old Men,Tommy Lee Jones
+2007,No Country for Old Men, Javier Bardem
+2007,No Country for Old Men, Josh Brolin
+2007,No Country for Old Men, Woody Harrelson
+2008,Slumdog Millionaire,Dev Patel
+2008,Slumdog Millionaire, Saurabh Shukla
+2008,Slumdog Millionaire, Anil Kapoor
+2008,Slumdog Millionaire, Raj Zutshi
+2009,The Hurt Locker,Jeremy Renner
+2009,The Hurt Locker, Anthony Mackie
+2009,The Hurt Locker, Brian Geraghty
+2009,The Hurt Locker, Guy Pearce
+2010,The King's Speech,Colin Firth
+2010,The King's Speech, Helena Bonham Carter
+2010,The King's Speech, Derek Jacobi
+2010,The King's Speech, Robert Portal
+2011,The Artist,Jean Dujardin
+2011,The Artist, Bérénice Bejo
+2011,The Artist, John Goodman
+2011,The Artist, James Cromwell
+2012,Argo,Ben Affleck
+2012,Argo, Bryan Cranston
+2012,Argo, Alan Arkin
+2012,Argo, John Goodman
+2013,12 Years a Slave,Chiwetel Ejiofor
+2013,12 Years a Slave, Dwight Henry
+2013,12 Years a Slave, Dickie Gravois
+2013,12 Years a Slave, Bryan Batt
+2014,Birdman or (The Unexpected Virtue of Ignorance),Michael Keaton
+2014,Birdman or (The Unexpected Virtue of Ignorance), Emma Stone
+2014,Birdman or (The Unexpected Virtue of Ignorance), Kenny Chin
+2014,Birdman or (The Unexpected Virtue of Ignorance), Jamahl Garrison-Lowe
+2015,Spotlight,Mark Ruffalo
+2015,Spotlight, Michael Keaton
+2015,Spotlight, Rachel McAdams
+2015,Spotlight, Liev Schreiber
+2016,Moonlight,Mahershala Ali
+2016,Moonlight, Shariff Earp
+2016,Moonlight, Duan Sanderson
+2016,Moonlight, Alex R. Hibbert
+2017,The Shape of Water,Sally Hawkins
+2017,The Shape of Water, Michael Shannon
+2017,The Shape of Water, Richard Jenkins
+2017,The Shape of Water, Octavia Spencer
+2018,Green Book,Viggo Mortensen
+2018,Green Book, Mahershala Ali
+2018,Green Book, Linda Cardellini
+2018,Green Book, Sebastian Maniscalco
+2019,Parasite,Kang-ho Song
+2019,Parasite, Sun-kyun Lee
+2019,Parasite, Yeo-jeong Jo
+2019,Parasite, Woo-sik Choi
