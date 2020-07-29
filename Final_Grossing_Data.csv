@@ -1,0 +1,94 @@
+Year,Movie ID,Movie Title,Revenue,Movie Genre,Runtime,Actors,IMDB Rating,Rotten Tomatoes Rating
+1927,287262,The Battles of the Coronel and Falkland Islands,6241682,,,,,
+1928,173689,Lights of New York,1200000,"Crime, Drama, Music, Romance",57 min,"Helene Costello, Cullen Landis, Mary Carr, Wheeler Oakman",5.7/10,
+1929,65203,The Broadway Melody,4358000,"Drama, Musical, Romance",100 min,"Charles King, Anita Page, Bessie Love",5.7/10,35%
+1930,166307,Tom Sawyer,11000000,"Adventure, Musical, Family",103 min,"Johnny Whitaker, Celeste Holm, Warren Oates, Jeff East",6.5/10,
+1931,3035,Frankenstein,12000000,"Drama, Horror, Sci-Fi",70 min,"Colin Clive, Mae Clarke, John Boles, Boris Karloff",7.8/10,100%
+1932,33680,Grand Hotel,2594000,"Drama, Romance",112 min,"Greta Garbo, John Barrymore, Joan Crawford, Wallace Beery",7.4/10,88%
+1933,244,King Kong,10000000,"Action, Adventure, Drama, Romance",187 min,"Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann",7.2/10,84%
+1934,8208,The Man Who Knew Too Much,10250000,"Drama, Thriller",120 min,"James Stewart, Doris Day, Brenda de Banzie, Bernard Miles",7.5/10,87%
+1935,12311,Mutiny on the Bounty,4460000,"Adventure, Biography, Drama, History, Romance",132 min,"Charles Laughton, Clark Gable, Franchot Tone, Herbert Mundin",7.7/10,93%
+1936,3082,Modern Times,8500000,"Comedy, Drama, Family, Romance",87 min,"Charles Chaplin, Paulette Goddard, Henry Bergman, Tiny Sandford",8.5/10,100%
+1937,408,Snow White and the Seven Dwarfs,184925486,"Animation, Family, Fantasy, Musical, Romance",83 min,"Roy Atwell, Stuart Buchanan, Adriana Caselotti, Eddie Collins",7.6/10,95/100
+1938,34106,You Can't Take It with You,7433101,"Comedy, Drama, Romance",126 min,"Jean Arthur, Lionel Barrymore, James Stewart, Edward Arnold",7.9/10,93%
+1939,770,Gone with the Wind,402352579,"Drama, History, Romance, War",238 min,"Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes",8.1/10,91%
+1940,10895,Pinocchio,84300000,"Animation, Comedy, Family, Fantasy, Musical",88 min,"Mel Blanc, Don Brodie, Stuart Buchanan, Walter Catlett",7.4/10,100%
+1941,15,Citizen Kane,23217674,"Drama, Mystery",119 min,"Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick",8.3/10,100%
+1942,3170,Bambi,267447150,"Animation, Drama, Family",70 min,"Hardie Albright, Stan Alexander, Bobette Audrey, Peter Behn",7.3/10,90%
+1943,98493,Hitler's Children,3355000,"Documentary, History",59 min,"Bettina Göring, Katrin Himmler, Monika Hertwig, Rainer Höß",7.4/10,81%
+1944,17661,Going My Way,16300000,"Comedy, Drama, Music",126 min,"Bing Crosby, Barry Fitzgerald, Frank McHugh, James Brown",7.0/10,83%
+1945,32430,The Bells of St. Mary's,21300000,Drama,126 min,"Bing Crosby, Ingrid Bergman, Henry Travers, William Gargan",7.3/10,85%
+1946,240417,Seeds of Destiny,200000000,"Documentary, Short",20 min,Ralph Bellamy,6.5/10,
+1947,33667,Gentleman's Agreement,7800000,"Drama, Romance",118 min,"Gregory Peck, Dorothy McGuire, John Garfield, Celeste Holm",7.2/10,74%
+1948,3089,Red River,9012000,"Action, Adventure, Drama, Romance, Western",133 min,"John Wayne, Montgomery Clift, Joanne Dru, Walter Brennan",7.8/10,100%
+1949,29993,Samson and Delilah,11500000,"Drama, History, Romance",134 min,"Hedy Lamarr, Victor Mature, George Sanders, Angela Lansbury",6.8/10,63%
+1950,11224,Cinderella,263591415,"Drama, Family, Fantasy, Romance",105 min,"Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter",6.9/10,84%
+1951,12092,Alice in Wonderland,572000000,"Adventure, Family, Fantasy",108 min,"Johnny Depp, Mia Wasikowska, Helena Bonham Carter, Anne Hathaway",6.4/10,51%
+1952,27191,The Greatest Show on Earth,36000000,"Drama, Family, Romance",152 min,"Betty Hutton, Cornel Wilde, Charlton Heston, Dorothy Lamour",6.6/10,43%
+1953,10693,Peter Pan,87404651,"Animation, Adventure, Family, Fantasy, Musical",77 min,"Bobby Driscoll, Kathryn Beaumont, Hans Conried, Bill Thompson",7.3/10,80%
+1954,567,Rear Window,36764313,"Mystery, Thriller",112 min,"James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter",8.4/10,99%
+1955,10340,Lady and the Tramp,93933394,"Animation, Adventure, Comedy, Drama, Family, Romance",76 min,"Peggy Lee, Larry Roberts, Bill Baucom, Verna Felton",7.3/10,93%
+1956,6844,The Ten Commandments,122700000,"Adventure, Drama",220 min,"Charlton Heston, Yul Brynner, Anne Baxter, Edward G. Robinson",7.8/10,89%
+1957,826,The Bridge on the River Kwai,44908000,"Adventure, Drama, War",161 min,"William Holden, Alec Guinness, Jack Hawkins, Sessue Hayakawa",8.1/10,95%
+1958,17352,South Pacific,36800000,"Musical, Romance, War",157 min,"Rossano Brazzi, Mitzi Gaynor, John Kerr, Ray Walston",6.8/10,80%
+1959,665,Ben-Hur,164000000,"Adventure, Drama, History",212 min,"Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd",8.1/10,86%
+1960,967,Spartacus,60000000,"Action, Adventure, Biography, Drama, History, Romance",55 min,"Manu Bennett, Daniel Feuerriegel, Peter Mensah, Lucy Lawless",8.5/10,
+1961,12230,One Hundred and One Dalmatians,215880014,"Animation, Adventure, Comedy, Family",79 min,"Rod Taylor, J. Pat O'Malley, Betty Lou Gerson, Martha Wentworth",7.2/10,98%
+1962,11349,Cape Fear,103000000,"Crime, Thriller",128 min,"Robert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis",7.3/10,74%
+1963,657,From Russia with Love,78898765,"Action, Adventure, Thriller",115 min,"Sean Connery, Daniela Bianchi, Pedro Armendáriz, Lotte Lenya",7.4/10,95%
+1964,658,Goldfinger,124881062,"Action, Adventure, Thriller",110 min,"Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton",7.7/10,99%
+1965,15121,The Sound of Music,286214286,"Biography, Drama, Family, Musical, Romance",172 min,"Julie Andrews, Christopher Plummer, Eleanor Parker, Richard Haydn",8.0/10,83%
+1966,14689,Hawaii,34562222,"Drama, Romance",102 min,"Manuel Vignau, Mateo Chiarino, Luz Palazón, Antonia De Michelis",7.2/10,
+1967,9325,The Jungle Book,205843612,"Adventure, Drama, Family, Fantasy",106 min,"Neel Sethi, Bill Murray, Ben Kingsley, Idris Elba",7.4/10,94%
+1968,62,2001: A Space Odyssey,68700000,"Adventure, Sci-Fi",149 min,"Keir Dullea, Gary Lockwood, William Sylvester, Daniel Richter",8.3/10,93%
+1969,642,Butch Cassidy and the Sundance Kid,102308889,"Biography, Crime, Drama, Western",110 min,"Paul Newman, Robert Redford, Katharine Ross, Strother Martin",8.0/10,90%
+1970,9062,Love Story,136400000,"Drama, Romance",100 min,"Ali MacGraw, Ryan O'Neal, John Marley, Ray Milland",6.9/10,67%
+1971,3122,Lady Frankenstein,139683000,Horror,99 min,"Joseph Cotten, Rosalba Neri, Paul Muller, Riccardo Pizzuti",5.0/10,
+1972,238,The Godfather,245066411,"Crime, Drama",175 min,"Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",9.2/10,98%
+1973,9552,The Exorcist,441306145,Horror,122 min,"Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn",8.0/10,83%
+1974,11072,Blazing Saddles,119601481,"Comedy, Western",93 min,"Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman",7.7/10,89%
+1975,578,Jaws,470653000,"Adventure, Thriller",124 min,"Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary",8.0/10,98%
+1976,195012,To Fly!,120700000,"Documentary, Short, History",27 min,"Ellen Bry, Jennifer Kaye Evans",7.0/10,
+1977,11,Star Wars,775398007,"Action, Adventure, Fantasy, Sci-Fi",121 min,"Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",8.6/10,92%
+1978,1924,Superman,300218018,"Action, Adventure, Drama, Sci-Fi",143 min,"Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty",7.3/10,94%
+1979,698,Moonraker,210308099,"Action, Adventure, Sci-Fi, Thriller",126 min,"Roger Moore, Lois Chiles, Michael Lonsdale, Richard Kiel",6.3/10,60%
+1980,1891,The Empire Strikes Back,538400000,"Action, Adventure, Fantasy, Sci-Fi",124 min,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",8.7/10,94%
+1981,85,Raiders of the Lost Ark,389925971,"Action, Adventure",115 min,"Harrison Ford, Karen Allen, Paul Freeman, Ronald Lacey",8.4/10,95%
+1982,601,E.T. the Extra-Terrestrial,792965326,"Family, Sci-Fi",115 min,"Dee Wallace, Henry Thomas, Peter Coyote, Robert MacNaughton",7.8/10,98%
+1983,1892,Return of the Jedi,572700000,"Action, Adventure, Fantasy, Sci-Fi",131 min,"Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",8.3/10,82%
+1984,87,Indiana Jones and the Temple of Doom,333000000,"Action, Adventure",118 min,"Harrison Ford, Kate Capshaw, Ke Huy Quan, Amrish Puri",7.6/10,85%
+1985,105,Back to the Future,381109762,"Adventure, Comedy, Sci-Fi",116 min,"Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover",8.5/10,96%
+1986,744,Top Gun,356830601,"Action, Drama",110 min,"Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards",6.9/10,54%
+1987,10998,Fatal Attraction,320145693,"Drama, Thriller",119 min,"Michael Douglas, Glenn Close, Anne Archer, Ellen Latzen",6.9/10,75%
+1988,380,Rain Man,354825435,Drama,133 min,"Dustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen",8.0/10,89%
+1989,89,Indiana Jones and the Last Crusade,474171806,"Action, Adventure",127 min,"Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody",8.2/10,87%
+1990,251,Ghost,505000000,"Drama, Fantasy, Romance, Thriller",127 min,"Patrick Swayze, Demi Moore, Tony Goldwyn, Stanley Lawrence",7.0/10,74%
+1991,280,Terminator 2: Judgment Day,520000000,"Action, Sci-Fi",137 min,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",8.5/10,93%
+1992,812,Aladdin,504050219,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",90 min,"Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman",8.0/10,95%
+1993,329,Jurassic Park,920100000,"Action, Adventure, Sci-Fi, Thriller",127 min,"Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough",8.1/10,91%
+1994,8587,The Lion King,763455561,"Animation, Adventure, Drama, Family, Musical",88 min,"Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings",8.5/10,93%
+1995,862,Toy Story,373554033,"Animation, Adventure, Comedy, Family, Fantasy",81 min,"Tom Hanks, Tim Allen, Don Rickles, Jim Varney",8.3/10,100%
+1996,602,Independence Day,817400891,"Action, Adventure, Sci-Fi",145 min,"Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell",7.0/10,66%
+1997,597,Titanic,2187463944,"Drama, Romance",194 min,"Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates",7.8/10,89%
+1998,95,Armageddon,553799566,"Action, Adventure, Sci-Fi, Thriller",151 min,"Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler",6.7/10,38%
+1999,1893,Star Wars: Episode I - The Phantom Menace,924317558,"Action, Adventure, Fantasy, Sci-Fi",136 min,"Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd",6.5/10,53%
+2000,955,Mission: Impossible II,546388105,"Action, Adventure, Thriller",123 min,"Tom Cruise, Dougray Scott, Thandie Newton, Ving Rhames",6.1/10,59/100
+2001,671,Harry Potter and the Sorcerer's Stone,976475550,"Adventure, Family, Fantasy",152 min,"Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets",7.6/10,81%
+2002,121,The Lord of the Rings: The Two Towers,926287400,"Adventure, Drama, Fantasy",179 min,"Bruce Allpress, Sean Astin, John Bach, Sala Baker",8.7/10,95%
+2003,122,The Lord of the Rings: The Return of the King,1118888979,"Adventure, Drama, Fantasy",201 min,"Noel Appleby, Ali Astin, Sean Astin, David Aston",8.9/10,93%
+2004,809,Shrek 2,928760770,"Animation, Adventure, Comedy, Family, Fantasy, Romance",93 min,"Mike Myers, Eddie Murphy, Cameron Diaz, Julie Andrews",7.2/10,89%
+2005,674,Harry Potter and the Goblet of Fire,895921036,"Adventure, Family, Fantasy, Mystery",157 min,"Eric Sykes, Timothy Spall, David Tennant, Daniel Radcliffe",7.7/10,88%
+2006,58,Pirates of the Caribbean: Dead Man's Chest,1065659812,"Action, Adventure, Fantasy",151 min,"Johnny Depp, Orlando Bloom, Keira Knightley, Jack Davenport",7.3/10,53%
+2007,285,Pirates of the Caribbean: At World's End,961000000,"Action, Adventure, Fantasy",169 min,"Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",7.1/10,44%
+2008,155,The Dark Knight,1004558444,"Action, Crime, Drama, Thriller",152 min,"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",9.0/10,94%
+2009,19995,Avatar,2787965087,"Action, Adventure, Fantasy, Sci-Fi",162 min,"Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",7.8/10,82%
+2010,10193,Toy Story 3,1066969703,"Animation, Adventure, Comedy, Family, Fantasy",103 min,"Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty",8.3/10,98%
+2011,12445,Harry Potter and the Deathly Hallows: Part 2,1341511219,"Adventure, Drama, Fantasy, Mystery",130 min,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe",8.1/10,96%
+2012,24428,The Avengers,1519557910,"Action, Adventure, Sci-Fi",143 min,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",8.0/10,92%
+2013,109445,Frozen,1274219009,"Animation, Adventure, Comedy, Family, Fantasy, Musical",102 min,"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad",7.4/10,90%
+2014,91314,Transformers: Age of Extinction,1104054072,"Action, Adventure, Sci-Fi",165 min,"Mark Wahlberg, Stanley Tucci, Kelsey Grammer, Nicola Peltz",5.6/10,18%
+2015,140607,Star Wars: The Force Awakens,2068223624,News,108 min,"J.J. Abrams, John Boyega, Anthony Carboni, Gwendoline Christie",7.8/10,
+2016,271110,Captain America: Civil War,1153296293,"Action, Adventure, Sci-Fi",147 min,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan",7.8/10,91%
+2017,181808,Star Wars: The Last Jedi,1332539889,"Short, Action, Fantasy, Sci-Fi",3 min,Taylor Clark,8.0/10,
+2018,299536,Avengers: Infinity War,2046239637,"Action, Adventure, Sci-Fi",149 min,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans",8.4/10,85%
+2019,299534,Avengers: Endgame,2797800564,"Action, Adventure, Drama, Sci-Fi",181 min,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",8.4/10,94%
