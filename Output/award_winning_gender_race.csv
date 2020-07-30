@@ -1,0 +1,368 @@
+Year,Movie Title,Actor,Gender,Race
+1927,Wings,Clara Bow,Female,White
+1927,Wings, Charles 'Buddy' Rogers,Male,White
+1927,Wings, Richard Arlen,Male,White
+1927,Wings, Jobyna Ralston,Female,White
+1928,The Broadway Melody,Charles King,Male,White
+1928,The Broadway Melody, Anita Page,Female,White
+1928,The Broadway Melody, Bessie Love,Female,White
+1929,All Quiet on the Western Front,Louis Wolheim,Male,White
+1929,All Quiet on the Western Front, Lew Ayres,Male,White
+1929,All Quiet on the Western Front, John Wray,Male,White
+1929,All Quiet on the Western Front, Arnold Lucy,Male,White
+1930,Cimarron,Richard Dix,Male,White
+1930,Cimarron, Irene Dunne,Female,White
+1930,Cimarron, Estelle Taylor,Female,White
+1930,Cimarron, Nance O'Neil,Female,White
+1931,Grand Hotel,Greta Garbo,Female,White
+1931,Grand Hotel, John Barrymore,Male,White
+1931,Grand Hotel, Joan Crawford,Female,White
+1931,Grand Hotel, Wallace Beery,Male,White
+1932,Cavalcade,Diana Wynyard,Female,White
+1932,Cavalcade, Clive Brook,Male,White
+1932,Cavalcade, Una O'Connor,Female,White
+1932,Cavalcade, Herbert Mundin,Male,White
+1934,It Happened One Night,Clark Gable,Male,White
+1934,It Happened One Night, Claudette Colbert,Female,White
+1934,It Happened One Night, Walter Connolly,Male,White
+1934,It Happened One Night, Roscoe Karns,Male,White
+1935,Mutiny on the Bounty,Charles Laughton,Male,White
+1935,Mutiny on the Bounty, Clark Gable,Male,White
+1935,Mutiny on the Bounty, Franchot Tone,Male,White
+1935,Mutiny on the Bounty, Herbert Mundin,Male,White
+1936,The Great Ziegfeld,William Powell,Male,White
+1936,The Great Ziegfeld, Myrna Loy,Female,White
+1936,The Great Ziegfeld, Luise Rainer,Female,White
+1936,The Great Ziegfeld, Frank Morgan,Male,White
+1937,The Life of Emile Zola,Paul Muni,Male,White
+1937,The Life of Emile Zola, Gale Sondergaard,Female,White
+1937,The Life of Emile Zola, Joseph Schildkraut,Male,White
+1937,The Life of Emile Zola, Gloria Holden,Female,White
+1938,You Can't Take It with You,Jean Arthur,Female,White
+1938,You Can't Take It with You, Lionel Barrymore,Male,White
+1938,You Can't Take It with You, James Stewart,Male,White
+1938,You Can't Take It with You, Edward Arnold,Male,White
+1939,Gone with the Wind,Thomas Mitchell,Male,White
+1939,Gone with the Wind, Barbara O'Neil,Female,White
+1939,Gone with the Wind, Vivien Leigh,Female,White
+1939,Gone with the Wind, Evelyn Keyes,Female,White
+1940,Rebecca,Laurence Olivier,Male,White
+1940,Rebecca, Joan Fontaine,Female,White
+1940,Rebecca, George Sanders,Male,White
+1940,Rebecca, Judith Anderson,Female,White
+1941,How Green Was My Valley,Walter Pidgeon,Male,White
+1941,How Green Was My Valley, Maureen O'Hara,Female,White
+1941,How Green Was My Valley, Anna Lee,Female,White
+1941,How Green Was My Valley, Donald Crisp,Male,White
+1942,Mrs. Miniver,Greer Garson,Female,White
+1942,Mrs. Miniver, Walter Pidgeon,Male,White
+1942,Mrs. Miniver, Teresa Wright,Female,White
+1942,Mrs. Miniver, May Whitty,Female,White
+1943,Casablanca,Humphrey Bogart,Male,White
+1943,Casablanca, Ingrid Bergman,Female,White
+1943,Casablanca, Paul Henreid,Male,White
+1943,Casablanca, Claude Rains,Male,White
+1944,Going My Way,Bing Crosby,Male,White
+1944,Going My Way, Barry Fitzgerald,Male,White
+1944,Going My Way, Frank McHugh,Male,White
+1944,Going My Way, James Brown,Male,White
+1945,The Lost Weekend,Ray Milland,Male,White
+1945,The Lost Weekend, Jane Wyman,Female,White
+1945,The Lost Weekend, Phillip Terry,Male,White
+1945,The Lost Weekend, Howard Da Silva,Male,White
+1946,The Best Years of Our Lives,Myrna Loy,Female,White
+1946,The Best Years of Our Lives, Fredric March,Male,White
+1946,The Best Years of Our Lives, Dana Andrews,Female,White
+1946,The Best Years of Our Lives, Teresa Wright,Female,White
+1947,Gentleman's Agreement,Gregory Peck,Male,White
+1947,Gentleman's Agreement, Dorothy McGuire,Female,White
+1947,Gentleman's Agreement, John Garfield,Male,White
+1947,Gentleman's Agreement, Celeste Holm,Female,White
+1948,Hamlet,John Laurie,Male,White
+1948,Hamlet,Esmond Knight,Male,White
+1948,Hamlet,Anthony Quayle,Male,White
+1948,Hamlet,Niall MacGinnis,Male,White
+1949,All the King's Men,Broderick Crawford,Male,White
+1949,All the King's Men,John Ireland,Male,White
+1949,All the King's Men,Joanne Dru,Female,White
+1949,All the King's Men,John Derek,Male,White
+1950,All about Eve,Bette Davis,Female,White
+1950,All about Eve, Anne Baxter,Female,White
+1950,All about Eve, George Sanders,Male,White
+1950,All about Eve, Celeste Holm,Female,White
+1951,An American in Paris,Gene Kelly,Male,White
+1951,An American in Paris, Leslie Caron,Female,White
+1951,An American in Paris, Oscar Levant,Male,White
+1951,An American in Paris, Georges Guétary,Male,White
+1952,The Greatest Show on Earth,Betty Hutton,Female,White
+1952,The Greatest Show on Earth, Cornel Wilde,Male,White
+1952,The Greatest Show on Earth, Charlton Heston,Male,White
+1952,The Greatest Show on Earth, Dorothy Lamour,Male,White
+1953,From Here to Eternity,Burt Lancaster,Male,White
+1953,From Here to Eternity, Montgomery Clift,Male,White
+1953,From Here to Eternity, Deborah Kerr,Female,White
+1953,From Here to Eternity, Donna Reed,Female,White
+1954,On the Waterfront,Marlon Brando,Male,White
+1954,On the Waterfront, Karl Malden,Male,White
+1954,On the Waterfront, Lee J. Cobb,Male,White
+1954,On the Waterfront, Rod Steiger,Male,White
+1955,Marty,Ernest Borgnine,Male,White
+1955,Marty, Betsy Blair,Female,White
+1955,Marty, Esther Minciotti,Female,White
+1955,Marty, Augusta Ciolli,Female,White
+1956,Around the World in 80 Days,David Niven,Male,White
+1956,Around the World in 80 Days,Cantinflas,Male,Not White
+1956,Around the World in 80 Days,Shirley MacLaine,Female,White
+1956,Around the World in 80 Days,Robert Newton,Male,White
+1957,The Bridge on the River Kwai,William Holden,Male,White
+1957,The Bridge on the River Kwai, Alec Guinness,Male,White
+1957,The Bridge on the River Kwai, Jack Hawkins,Male,White
+1957,The Bridge on the River Kwai, Sessue Hayakawa,Male,Not White
+1958,Gigi,Leslie Caron,Female,White
+1958,Gigi, Maurice Chevalier,Male,White
+1958,Gigi, Louis Jourdan,Male,White
+1958,Gigi, Hermione Gingold,Female,White
+1959,Ben-Hur,Charlton Heston,Male,White
+1959,Ben-Hur, Jack Hawkins,Male,White
+1959,Ben-Hur, Haya Harareet,Female,White
+1959,Ben-Hur, Stephen Boyd,Male,White
+1960,The Apartment,Jack Lemmon,Male,White
+1960,The Apartment, Shirley MacLaine,Female,White
+1960,The Apartment, Fred MacMurray,Male,White
+1960,The Apartment, Ray Walston,Male,White
+1961,West Side Story,Natalie Wood,Female,White
+1961,West Side Story, Richard Beymer,Male,White
+1961,West Side Story, Russ Tamblyn,Male,White
+1961,West Side Story, Rita Moreno,Female,Not White
+1962,Lawrence of Arabia,Peter O'Toole,Male,White
+1962,Lawrence of Arabia, Alec Guinness,Male,White
+1962,Lawrence of Arabia, Anthony Quinn,Male,Not White
+1962,Lawrence of Arabia, Jack Hawkins,Male,White
+1963,Tom Jones,George Devine,Male,White
+1963,Tom Jones, Rachel Kempson,Female,White
+1963,Tom Jones, Angela Baddeley,Female,White
+1963,Tom Jones, Joyce Redman,Female,White
+1964,My Fair Lady,Audrey Hepburn,Female,White
+1964,My Fair Lady, Rex Harrison,Male,White
+1964,My Fair Lady, Stanley Holloway,Male,White
+1964,My Fair Lady, Wilfrid Hyde-White,Male,White
+1965,The Sound of Music,Julie Andrews,Female,White
+1965,The Sound of Music, Christopher Plummer,Male,White
+1965,The Sound of Music, Eleanor Parker,Female,White
+1965,The Sound of Music, Richard Haydn,Male,White
+1966,A Man for All Seasons,Paul Scofield,Male,White
+1966,A Man for All Seasons, Wendy Hiller,Female,White
+1966,A Man for All Seasons, Leo McKern,Male,White
+1966,A Man for All Seasons, Robert Shaw,Male,White
+1967,In the Heat of the Night,Sidney Poitier,Male,Not White
+1967,In the Heat of the Night, Rod Steiger,Male,White
+1967,In the Heat of the Night, Warren Oates,Male,White
+1967,In the Heat of the Night, Lee Grant,Female,White
+1968,Oliver!,Ron Moody,Male,White
+1968,Oliver!, Shani Wallis,Female,White
+1968,Oliver!, Oliver Reed,Male,White
+1968,Oliver!, Harry Secombe,Male,White
+1969,Midnight Cowboy,Dustin Hoffman,Male,White
+1969,Midnight Cowboy, Jon Voight,Male,White
+1969,Midnight Cowboy, Sylvia Miles,Female,White
+1969,Midnight Cowboy, John McGiver,Male,White
+1970,Patton,George C. Scott,Male,White
+1970,Patton, Karl Malden,Male,White
+1970,Patton, Stephen Young,Male,White
+1970,Patton, Michael Strong,Male,White
+1971,The French Connection,Gene Hackman,Male,White
+1971,The French Connection, Fernando Rey,Male,Not White
+1971,The French Connection, Roy Scheider,Male,White
+1971,The French Connection, Tony Lo Bianco,Male,White
+1972,The Godfather,Marlon Brando,Male,White
+1972,The Godfather, Al Pacino,Male,White
+1972,The Godfather, James Caan,Male,White
+1972,The Godfather, Richard S. Castellano,Male,White
+1973,The Sting,Paul Newman,Male,White
+1973,The Sting, Robert Redford,Male,White
+1973,The Sting, Robert Shaw,Male,White
+1973,The Sting, Charles Durning,Male,White
+1974,The Godfather Part II,Al Pacino,Male,White
+1974,The Godfather Part II, Robert Duvall,Male,White
+1974,The Godfather Part II, Diane Keaton,Female,White
+1974,The Godfather Part II, Robert De Niro,Male,White
+1975,One Flew over the Cuckoo's Nest,Jack Nicholson,Male,White
+1975,One Flew over the Cuckoo's Nest, Louise Fletcher,Female,White
+1975,One Flew over the Cuckoo's Nest, Will Sampson,Male,White
+1975,One Flew over the Cuckoo's Nest, Michael Berryman,Male,White
+1976,Rocky,Sylvester Stallone,Male,White
+1976,Rocky, Talia Shire,Female,White
+1976,Rocky, Burt Young,Male,White
+1976,Rocky, Carl Weathers,Male,White
+1977,Annie Hall,Woody Allen,Male,White
+1977,Annie Hall, Diane Keaton,Female,White
+1977,Annie Hall, Tony Roberts,Male,White
+1977,Annie Hall, Carol Kane,Female,White
+1978,The Deer Hunter,Robert De Niro,Male,White
+1978,The Deer Hunter, John Cazale,Male,White
+1978,The Deer Hunter, John Savage,Male,White
+1978,The Deer Hunter, Christopher Walken,Male,White
+1979,Kramer vs. Kramer,Dustin Hoffman,Male,White
+1979,Kramer vs. Kramer, Meryl Streep,Female,White
+1979,Kramer vs. Kramer, Jane Alexander,Female,White
+1979,Kramer vs. Kramer, Justin Henry,Male,White
+1980,Ordinary People,Donald Sutherland,Male,White
+1980,Ordinary People, Mary Tyler Moore,Female,White
+1980,Ordinary People, Judd Hirsch,Male,White
+1980,Ordinary People, Timothy Hutton,Male,White
+1981,Chariots of Fire,Nicholas Farrell,Male,White
+1981,Chariots of Fire, Nigel Havers,Male,White
+1981,Chariots of Fire, Ian Charleson,Male,White
+1981,Chariots of Fire, Ben Cross,Male,White
+1982,Gandhi,Ben Kingsley,Male,Not White
+1982,Gandhi, Rohini Hattangadi,Female,Not White
+1982,Gandhi, Roshan Seth,Male,Not White
+1982,Gandhi, Candice Bergen,Female,White
+1983,Terms of Endearment,Shirley MacLaine,Female,White
+1983,Terms of Endearment, Debra Winger,Female,White
+1983,Terms of Endearment, Jack Nicholson,Male,White
+1983,Terms of Endearment, Danny DeVito,Male,White
+1984,Amadeus,F. Murray Abraham,Male,White
+1984,Amadeus, Tom Hulce,Male,White
+1984,Amadeus, Elizabeth Berridge,Female,White
+1984,Amadeus, Roy Dotrice,Male,White
+1985,Out of Africa,Meryl Streep,Female,White
+1985,Out of Africa, Robert Redford,Male,White
+1985,Out of Africa, Klaus Maria Brandauer,Male,White
+1985,Out of Africa, Michael Kitchen,Male,White
+1986,Platoon,Keith David,Male,Not White
+1986,Platoon, Forest Whitaker,Male,Not White
+1986,Platoon, Francesco Quinn,Male,White
+1986,Platoon, Kevin Dillon,Male,White
+1987,The Last Emperor,John Lone,Male,Not White
+1987,The Last Emperor, Joan Chen,Female,Not White
+1987,The Last Emperor, Peter O'Toole,Male,White
+1987,The Last Emperor, Ruocheng Ying,Male,Not White
+1988,Rain Man,Dustin Hoffman,Male,White
+1988,Rain Man, Tom Cruise,Male,White
+1988,Rain Man, Valeria Golino,Female,White
+1988,Rain Man, Gerald R. Molen,Male,White
+1989,Driving Miss Daisy,Morgan Freeman,Male,Not White
+1989,Driving Miss Daisy, Jessica Tandy,Female,White
+1989,Driving Miss Daisy, Dan Aykroyd,Male,White
+1989,Driving Miss Daisy, Patti LuPone,Female,White
+1990,Dances With Wolves,Kevin Costner,Male,White
+1990,Dances With Wolves, Mary McDonnell,Female,White
+1990,Dances With Wolves, Graham Greene,Male,Not White
+1990,Dances With Wolves, Rodney A. Grant,Male,White
+1991,The Silence of the Lambs,Jodie Foster,Female,White
+1991,The Silence of the Lambs, Lawrence A. Bonney,Male,White
+1991,The Silence of the Lambs, Kasi Lemmons,Female,Not White
+1991,The Silence of the Lambs, Lawrence T. Wrentz,Male,White
+1992,Unforgiven,Clint Eastwood,Male,White
+1992,Unforgiven, Gene Hackman,Male,White
+1992,Unforgiven, Morgan Freeman,Male,Not White
+1992,Unforgiven, Richard Harris,Male,White
+1993,Schindler's List,Liam Neeson,Male,White
+1993,Schindler's List, Ben Kingsley,Male,Not White
+1993,Schindler's List, Ralph Fiennes,Male,White
+1993,Schindler's List, Caroline Goodall,Male,White
+1994,Forrest Gump,Tom Hanks,Male,White
+1994,Forrest Gump, Rebecca Williams,Female,Not White
+1994,Forrest Gump, Sally Field,Female,White
+1994,Forrest Gump, Michael Conner Humphreys,Male,White
+1995,Braveheart,James Robinson,Male,White
+1995,Braveheart, Sean Lawlor,Male,White
+1995,Braveheart, Sandy Nelson,Male,White
+1995,Braveheart, James Cosmo,Male,White
+1996,The English Patient,Ralph Fiennes,Male,White
+1996,The English Patient, Juliette Binoche,Female,White
+1996,The English Patient, Willem Dafoe,Male,White
+1996,The English Patient, Kristin Scott Thomas,Female,White
+1997,Titanic,Leonardo DiCaprio,Male,White
+1997,Titanic, Kate Winslet,Female,White
+1997,Titanic, Billy Zane,Male,White
+1997,Titanic, Kathy Bates,Female,White
+1998,Shakespeare in Love,Geoffrey Rush,Male,White
+1998,Shakespeare in Love, Tom Wilkinson,Male,White
+1998,Shakespeare in Love, Steven O'Donnell,Male,White
+1998,Shakespeare in Love, Tim McMullan,Male,White
+1999,American Beauty,Kevin Spacey,Male,White
+1999,American Beauty, Annette Bening,Female,White
+1999,American Beauty, Thora Birch,Female,White
+1999,American Beauty, Wes Bentley,Male,White
+2000,Gladiator,Russell Crowe,Male,White
+2000,Gladiator, Joaquin Phoenix,Male,White
+2000,Gladiator, Connie Nielsen,Female,White
+2000,Gladiator, Oliver Reed,Male,White
+2001,A Beautiful Mind,Russell Crowe,Male,White
+2001,A Beautiful Mind, Ed Harris,Male,White
+2001,A Beautiful Mind, Jennifer Connelly,Female,White
+2001,A Beautiful Mind, Christopher Plummer,Male,White
+2002,Chicago,Taye Diggs,Male,Not White
+2002,Chicago, Cliff Saunders,Male,White
+2002,Chicago, Catherine Zeta-Jones,Female,White
+2002,Chicago, Renée Zellweger,Female,White
+2003,The Lord of the Rings: The Return of the King,Noel Appleby,Male,White
+2003,The Lord of the Rings: The Return of the King, Ali Astin,Female,White
+2003,The Lord of the Rings: The Return of the King, Sean Astin,Male,White
+2003,The Lord of the Rings: The Return of the King, David Aston,Male,White
+2004,Million Dollar Baby,Clint Eastwood,Male,White
+2004,Million Dollar Baby, Hilary Swank,Female,White
+2004,Million Dollar Baby, Morgan Freeman,Male,Not White
+2004,Million Dollar Baby, Jay Baruchel,Male,White
+2005,Crash,Karina Arroyave,Female,Not White
+2005,Crash, Dato Bakhtadze,Male,Not White
+2005,Crash, Sandra Bullock,Female,White
+2005,Crash, Don Cheadle,Male,Not White
+2006,The Departed,Leonardo DiCaprio,Male,White
+2006,The Departed, Matt Damon,Male,White
+2006,The Departed, Jack Nicholson,Male,White
+2006,The Departed, Mark Wahlberg,Male,White
+2007,No Country for Old Men,Tommy Lee Jones,Male,White
+2007,No Country for Old Men, Javier Bardem,Male,Not White
+2007,No Country for Old Men, Josh Brolin,Male,White
+2007,No Country for Old Men, Woody Harrelson,Male,White
+2008,Slumdog Millionaire,Dev Patel,Male,Not White
+2008,Slumdog Millionaire, Saurabh Shukla,Male,Not White
+2008,Slumdog Millionaire, Anil Kapoor,Male,Not White
+2008,Slumdog Millionaire,Freida Pinto,Female,Not White
+2009,The Hurt Locker,Jeremy Renner,Male,White
+2009,The Hurt Locker, Anthony Mackie,Male,Not White
+2009,The Hurt Locker, Brian Geraghty,Male,White
+2009,The Hurt Locker, Guy Pearce,Male,White
+2010,The King's Speech,Colin Firth,Male,White
+2010,The King's Speech, Helena Bonham Carter,Female,White
+2010,The King's Speech, Derek Jacobi,Male,White
+2010,The King's Speech, Robert Portal,Male,White
+2011,The Artist,Jean Dujardin,Male,White
+2011,The Artist,Berenice Bejo,Female,Not White
+2011,The Artist, John Goodman,Male,White
+2011,The Artist, James Cromwell,Male,White
+2012,Argo,Ben Affleck,Male,White
+2012,Argo, Bryan Cranston,Male,White
+2012,Argo, Alan Arkin,Male,White
+2012,Argo, John Goodman,Male,White
+2013,12 Years a Slave,Chiwetel Ejiofor,Male,Not White
+2013,12 Years a Slave,Michael Kenneth Williams,Male,Not White
+2013,12 Years a Slave,Brad Pitt,Male,White
+2013,12 Years a Slave,Michael Fassbender,Male,White
+2014,Birdman or (The Unexpected Virtue of Ignorance),Michael Keaton,Male,White
+2014,Birdman or (The Unexpected Virtue of Ignorance), Emma Stone,Female,White
+2014,Birdman or (The Unexpected Virtue of Ignorance), Kenny Chin,Male,Not White
+2014,Birdman or (The Unexpected Virtue of Ignorance), Jamahl Garrison-Lowe,Male,White
+2015,Spotlight,Mark Ruffalo,Male,White
+2015,Spotlight, Michael Keaton,Male,White
+2015,Spotlight, Rachel McAdams,Female,White
+2015,Spotlight, Liev Schreiber,Male,White
+2016,Moonlight,Mahershala Ali,Male,Not White
+2016,Moonlight, Shariff Earp,Male,Not White
+2016,Moonlight, Duan Sanderson,Male,Not White
+2016,Moonlight, Alex R. Hibbert,Male,Not White
+2017,The Shape of Water,Sally Hawkins,Female,White
+2017,The Shape of Water, Michael Shannon,Male,White
+2017,The Shape of Water, Richard Jenkins,Male,White
+2017,The Shape of Water, Octavia Spencer,Female,Not White
+2018,Green Book,Viggo Mortensen,Male,White
+2018,Green Book, Mahershala Ali,Male,Not White
+2018,Green Book, Linda Cardellini,Female,White
+2018,Green Book, Sebastian Maniscalco,Male,White
+2019,Parasite,Kang-ho Song,Male,Not White
+2019,Parasite, Sun-kyun Lee,Male,Not White
+2019,Parasite, Yeo-jeong Jo,Female,Not White
+2019,Parasite, Woo-sik Choi,Male,Not White

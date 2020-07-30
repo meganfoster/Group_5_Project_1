@@ -1,5 +1,7 @@
 Year,Movie Title,Actors,Gender,Race
-1927,The Battles of the Coronel and Falkland Islands,,,
+1927,The Battles of the Coronel and Falkland Islands,Roger Maxwell,Male,White
+1927,The Battles of the Coronel and Falkland Islands,Craighall Sherry,Male,White
+1927,The Battles of the Coronel and Falkland Islands,Hans von Slock,Male,White
 1928,Lights of New York,Helene Costello,Female,White
 1928,Lights of New York, Cullen Landis,Male,White
 1928,Lights of New York, Mary Carr,Female,White
@@ -25,7 +27,7 @@ Year,Movie Title,Actors,Gender,Race
 1933,King Kong,Frank Reicher,Male,White
 1934,The Man Who Knew Too Much,Leslie Banks,Male,White
 1934,The Man Who Knew Too Much,Edna Best,Female,White
-1934,The Man Who Knew Too Much,Peter Lorre,Peter,White
+1934,The Man Who Knew Too Much,Peter Lorre,Male,White
 1934,The Man Who Knew Too Much,Frank Vosper,Male,White
 1935,Mutiny on the Bounty,Charles Laughton,Male,White
 1935,Mutiny on the Bounty, Clark Gable,Male,White
